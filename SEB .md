@@ -1,5 +1,5 @@
 # Exp.No:20  
-## SEB - AREA OF RECTANGLE
+# SEB
 
 ---
 
