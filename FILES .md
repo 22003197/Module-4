@@ -1,5 +1,5 @@
 # Exp.No:18  
-## FILES -  COUNT NUMBER OF WORDS 
+# FILES
 
 ### AIM  
 
